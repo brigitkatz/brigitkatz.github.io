@@ -1,20 +1,15 @@
 {
-    "items": [{
-            "url": "http://nytlive.nytimes.com/womenintheworld/2015/11/02/supergirl-is-not-the-female-hero-we-deserve/",
-            "img": "https://tbmwomenintheworld.files.wordpress.com/2015/10/106243_d0210b.jpg",
-            "text": "Supergirl is not the female hero we deserve",
-            "source": "Women in the World"
-        },
-        {
-            "url": "http://nytlive.nytimes.com/womenintheworld/2016/02/25/the-quiet-radicalism-of-broad-city/",
-            "img": "https://tbmwomenintheworld.files.wordpress.com/2016/02/bc_302_screengrab10.jpg",
-            "text": "The quiet radicalism of Broad City",
-            "source": "Women in the World"
-        },
+    "items": [
         {
             "url": "http://nytlive.nytimes.com/womenintheworld/2016/04/21/in-broadway-production-of-the-crucible-arthur-millers-witches-smolder-and-terrify/",
             "img": "https://tbmwomenintheworld.files.wordpress.com/2016/04/cropthe-crucible-c2ac-jan-versweyveld-2.jpg",
             "text": "In Broadway production of “The Crucible,” Arthur Miller’s witches smolder and terrify",
+            "source": "Women in the World"
+        },        
+        {
+            "url": "http://nytlive.nytimes.com/womenintheworld/2016/02/25/the-quiet-radicalism-of-broad-city/",
+            "img": "https://tbmwomenintheworld.files.wordpress.com/2016/02/bc_302_screengrab10.jpg",
+            "text": "The quiet radicalism of Broad City",
             "source": "Women in the World"
         },
         {
@@ -23,6 +18,12 @@
             "text": "Amid a shifting tide of tolerance, transgender Jews search for faith and community",
             "source": "Women in the World"
         },
+        {
+            "url": "http://nytlive.nytimes.com/womenintheworld/2015/11/02/supergirl-is-not-the-female-hero-we-deserve/",
+            "img": "https://tbmwomenintheworld.files.wordpress.com/2015/10/106243_d0210b.jpg",
+            "text": "Supergirl is not the female hero we deserve",
+            "source": "Women in the World"
+        },      
         {
             "url": "http://nytlive.nytimes.com/womenintheworld/2016/02/03/can-comedian-jessie-kahnweiler-make-bulimia-funny/",
             "img": "https://tbmwomenintheworld.files.wordpress.com/2016/02/the-skinny-jessie-kahnweiler_4-photo-by-patrick-gookin.jpg",
@@ -78,11 +79,11 @@
             "source": "Women in the World"
         },
         {
-            "url": "http://nytlive.nytimes.com/womenintheworld/2015/04/20/the-incredible-story-of-bobbi-gibb-the-first-woman-to-run-the-boston-marathon/",
-            "img": "https://tbmwomenintheworld.files.wordpress.com/2015/04/screen-shot-2016-04-15-at-12-08-25-pm.png",
-            "text": "The incredible story of Bobbi Gibb, the first woman to run the Boston Marathon",
+            "url":"http://nytlive.nytimes.com/womenintheworld/2016/02/19/the-woman-who-painted-marie-antoinette/",
+            "img": "https://tbmwomenintheworld.files.wordpress.com/2016/02/featured-3.jpg",
+            "text":"The woman who painted Marie Antoinette",
             "source": "Women in the World"
-        },
+        },        
         {
             "url":"http://nytlive.nytimes.com/womenintheworld/2015/08/18/when-ultra-religious-hasidic-women-choose-to-lead-secular-lives-their-freedom-often-comes-at-a-price/",
             "img": "https://tbmwomenintheworld.files.wordpress.com/2015/08/gettyimages-146347600.jpg",
@@ -90,9 +91,9 @@
             "source": "Women in the World"
         },
         {
-            "url":"http://nytlive.nytimes.com/womenintheworld/2016/02/19/the-woman-who-painted-marie-antoinette/",
-            "img": "https://tbmwomenintheworld.files.wordpress.com/2016/02/featured-3.jpg",
-            "text":"The woman who painted Marie Antoinette",
+            "url": "http://nytlive.nytimes.com/womenintheworld/2015/04/20/the-incredible-story-of-bobbi-gibb-the-first-woman-to-run-the-boston-marathon/",
+            "img": "https://tbmwomenintheworld.files.wordpress.com/2015/04/screen-shot-2016-04-15-at-12-08-25-pm.png",
+            "text": "The incredible story of Bobbi Gibb, the first woman to run the Boston Marathon",
             "source": "Women in the World"
         },
         {
