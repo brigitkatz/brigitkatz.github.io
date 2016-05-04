@@ -35,10 +35,6 @@
     #portfolio-fillin h1 a {
         text-decoration: none;
         color:#2c3e50;
-
-    }
-    #portfolio-fillin div {
-        min-height: 250px;
     }
     #portfolio-fillin h1 {
         height: 40px;
@@ -46,6 +42,9 @@
     #portfolio-fillin img {
         max-height: 200px;
         text-align: center;
+    }
+    div.portfolio {
+        height: 200px;    
     }
     </style>
 
@@ -212,7 +211,7 @@
                 var img = item["img"];
                 var url = item["url"];
                 var source = item["source"];
-                var imageElement = "<a class='portfolio-link' target='_none' href = '"+url+"'><img class='img-rounded' alt='" + text + "' src='"+img + "'></a>";
+                var imageElement = "<div class='portfolio'><a target='_none' href = '"+url+"'><img class='img-rounded' alt='" + text + "' src='"+img + "'></a></div>";
                 var link = "<a target = '_none' href = '" + url + "'>" + source + "</a>"
                 var title = "<h1><a target='_none' href='"+url+"'>"+text+"</a></h1>"
                 items.push( "<div class='col-sm-4 portfolio-item'>" + imageElement + title + link + "</div>");
