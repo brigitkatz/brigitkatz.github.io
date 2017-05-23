@@ -171,7 +171,13 @@
         {
             "url": "http://www.smithsonianmag.com/science-nature/new-evidence-human-activity-north-america-130000-years-ago-180963046/",
             "img": "http://i.imgur.com/sBzv04u.png",
-            "text": "Remarkable New Evidence for Human Activity in North America 130,000 Years Ago Read",
+            "text": "Remarkable New Evidence for Human Activity in North America 130,000 Years Ago",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/new-exhibit-six-portraits-deepen-mystery-jane-austen-180963366/",
+            "img": "http://i.imgur.com/SfoDcDb.png",
+            "text": "Six Portraits on Display Deepen the Mystery of Jane Austen",
             "source": "Smithsonian"
         },
         {
