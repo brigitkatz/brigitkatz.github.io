@@ -1,5 +1,101 @@
 {
-    "items": [      	
+    "items": [
+        {
+          "url": "https://www.smithsonianmag.com/arts-culture/mysterious-murder-case-inspired-margaret-atwoods-alias-grace-180967045/",
+          "img": "https://i.imgur.com/5gxKvRr.png",
+          "text": "The Mysterious Murder Case That Inspired Margaret Atwood’s ‘Alias Grace’",
+          "source": "Smithsonian"
+        },
+        {
+          "url": "http://www.smithsonianmag.com/smart-news/virginia-museum-fine-arts-will-re-launch-its-historic-artmobile-180964442/",
+            "img": "http://i.imgur.com/pBnGqEO.jpg",
+            "text": "Virginia Museum’s Historic Artmobile Will Hit the Road Again",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/sonata-fanny-mendelssohn-mistakenly-attributed-her-brother-premieres-under-her-name-180962429/",
+            "img": "https://thumbs-media.smithsonianmag.com/filer/1a/c7/1ac7877c-0a8c-46f9-a2d4-a81ffba89b0e/fannymendelssohn.jpg__800x600_q85_crop.jpg",
+            "text": "Sonata by Fanny Mendelssohn, Mistakenly Attributed to Her Brother, Premieres Under Her Name",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/five-things-know-about-little-golden-books-180962311/",
+            "img": "https://thumbs-media.smithsonianmag.com/filer/3a/40/3a403803-9fef-4b73-b3e8-8acd18ec979e/15335207294_d50e47fda5_o.jpg__800x600_q85_crop.jpg",
+            "text": "Five Things to Know About Little Golden Books",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/lm-montgomerys-ontario-home-will-open-museum-180962562/",
+            "img": "https://thumbs-media.smithsonianmag.com/filer/f0/05/f00544d8-d603-4068-88be-7987438b53a4/halton_hills-12.jpeg__800x600_q85_crop.jpg",
+            "text": "L.M. Montgomery’s Ontario Home Will Open As a Museum",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/forgotten-egyptian-shroud-rediscovered-scottish-museum-180962684/",
+            "img": "https://thumbs-media.smithsonianmag.com/filer/7d/4f/7d4fcde7-57e8-4b31-9bfd-2d10e08e1c2e/the_shroud_is_unfolded_copyright_national_museums_scotland_1.jpg__800x600_q85_crop.jpg",
+            "text": "Ancient Egyptian Shroud Gets New Life After Rediscovery in Scottish Museum Collections",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/marine-le-pen-denies-states-role-deporting-french-jews-during-wwii-180962849/",
+            "img": "http://i.imgur.com/xofuGM6.jpg",
+            "text": "Marine Le Pen Denies State’s Role in Deporting French Jews During WWII",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/science-nature/new-evidence-human-activity-north-america-130000-years-ago-180963046/",
+            "img": "http://i.imgur.com/sBzv04u.png",
+            "text": "Remarkable New Evidence for Human Activity in North America 130,000 Years Ago",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/new-exhibit-six-portraits-deepen-mystery-jane-austen-180963366/",
+            "img": "http://i.imgur.com/SfoDcDb.png",
+            "text": "Six Portraits on Display Deepen the Mystery of Jane Austen",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/tiny-church-england-sits-sacred-pagan-ground-experts-say-180963449/",
+            "img": "http://i.imgur.com/TeY1933.png",
+            "text": "A Tiny Church Sits On Britain’s Oldest Site of Continuous Worship",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/ancient-water-bottles-may-have-exposed-native-americans-toxic-chemicals-180963875/",
+            "img": "http://i.imgur.com/7gPV8FJ.jpg",
+            "text": "Drinking From Ancient Water Bottles Didn’t Hurt Indigenous People—Making Them Did",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/smithsonian-curator-photo-allegedly-shows-amelia-earhart-japanese-captivity-180963964/",
+            "img": "http://i.imgur.com/Z8Fpjqv.png",
+            "text": "Smithsonian Curator Weighs In on Photo That Allegedly Shows Amelia Earhart in Japanese Captivity",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/agatha-christies-fiery-letters-display-crime-writing-festival-180964097/",
+            "img": "http://i.imgur.com/We2v7Gm.png",
+            "text": "Agatha Christie’s Fiery Letters Offer New Glimpse Into the Queen of Crime",
+            "source": "Smithsonian"
+        }, 
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/how-texas-art-museum-prepared-hurricane-harvey-180964661/",
+            "img": "http://i.imgur.com/hiYPAq1.jpg",
+            "text": "This Texas Museum Was Devastated by Ike. Here's How It Prepared For Harvey",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "http://www.smithsonianmag.com/smart-news/chicago-library-seeks-help-transcribing-magical-manuscripts-180963911/",
+            "img": "http://i.imgur.com/sSpPogV.jpg",
+            "text": "Chicago Library Seeks Help Transcribing Magical Manuscripts",
+            "source": "Smithsonian"
+        },
+        {
+            "url": "https://www.smithsonianmag.com/smart-news/worlds-largest-database-jewish-art-preserves-risk-heritage-objects-180965103/",
+            "img": "https://i.imgur.com/yxQ0Hu9.jpg",
+            "text": "World’s Largest Online Database of Jewish Art Preserves At-Risk Heritage Objects",
+            "source": "Smithsonian"
+        },
         {
             "url": "https://nytlive.nytimes.com/womenintheworld/2017/08/17/inside-a-new-york-city-social-club-for-women-with-autism/",
             "img": "https://tbmwomenintheworld2016.files.wordpress.com/2017/08/screen-shot-2017-08-16-at-2-52-24-pm.png?h=200",
@@ -143,97 +239,7 @@
             "img": "https://tbmwomenintheworld2016.files.wordpress.com/2016/03/photo-1445052693476-5134dfe40f701.jpeg?h=200",
             "text": "From spinsters to single ladies: the revolution of unmarried women",
             "source": "Women in the World"
-        },
-        {
-          "url": "http://www.smithsonianmag.com/smart-news/virginia-museum-fine-arts-will-re-launch-its-historic-artmobile-180964442/",
-            "img": "http://i.imgur.com/pBnGqEO.jpg",
-            "text": "Virginia Museum’s Historic Artmobile Will Hit the Road Again",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/sonata-fanny-mendelssohn-mistakenly-attributed-her-brother-premieres-under-her-name-180962429/",
-            "img": "https://thumbs-media.smithsonianmag.com/filer/1a/c7/1ac7877c-0a8c-46f9-a2d4-a81ffba89b0e/fannymendelssohn.jpg__800x600_q85_crop.jpg",
-            "text": "Sonata by Fanny Mendelssohn, Mistakenly Attributed to Her Brother, Premieres Under Her Name",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/five-things-know-about-little-golden-books-180962311/",
-            "img": "https://thumbs-media.smithsonianmag.com/filer/3a/40/3a403803-9fef-4b73-b3e8-8acd18ec979e/15335207294_d50e47fda5_o.jpg__800x600_q85_crop.jpg",
-            "text": "Five Things to Know About Little Golden Books",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/lm-montgomerys-ontario-home-will-open-museum-180962562/",
-            "img": "https://thumbs-media.smithsonianmag.com/filer/f0/05/f00544d8-d603-4068-88be-7987438b53a4/halton_hills-12.jpeg__800x600_q85_crop.jpg",
-            "text": "L.M. Montgomery’s Ontario Home Will Open As a Museum",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/forgotten-egyptian-shroud-rediscovered-scottish-museum-180962684/",
-            "img": "https://thumbs-media.smithsonianmag.com/filer/7d/4f/7d4fcde7-57e8-4b31-9bfd-2d10e08e1c2e/the_shroud_is_unfolded_copyright_national_museums_scotland_1.jpg__800x600_q85_crop.jpg",
-            "text": "Ancient Egyptian Shroud Gets New Life After Rediscovery in Scottish Museum Collections",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/marine-le-pen-denies-states-role-deporting-french-jews-during-wwii-180962849/",
-            "img": "http://i.imgur.com/xofuGM6.jpg",
-            "text": "Marine Le Pen Denies State’s Role in Deporting French Jews During WWII",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/science-nature/new-evidence-human-activity-north-america-130000-years-ago-180963046/",
-            "img": "http://i.imgur.com/sBzv04u.png",
-            "text": "Remarkable New Evidence for Human Activity in North America 130,000 Years Ago",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/new-exhibit-six-portraits-deepen-mystery-jane-austen-180963366/",
-            "img": "http://i.imgur.com/SfoDcDb.png",
-            "text": "Six Portraits on Display Deepen the Mystery of Jane Austen",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/tiny-church-england-sits-sacred-pagan-ground-experts-say-180963449/",
-            "img": "http://i.imgur.com/TeY1933.png",
-            "text": "A Tiny Church Sits On Britain’s Oldest Site of Continuous Worship",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/ancient-water-bottles-may-have-exposed-native-americans-toxic-chemicals-180963875/",
-            "img": "http://i.imgur.com/7gPV8FJ.jpg",
-            "text": "Drinking From Ancient Water Bottles Didn’t Hurt Indigenous People—Making Them Did",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/smithsonian-curator-photo-allegedly-shows-amelia-earhart-japanese-captivity-180963964/",
-            "img": "http://i.imgur.com/Z8Fpjqv.png",
-            "text": "Smithsonian Curator Weighs In on Photo That Allegedly Shows Amelia Earhart in Japanese Captivity",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/agatha-christies-fiery-letters-display-crime-writing-festival-180964097/",
-            "img": "http://i.imgur.com/We2v7Gm.png",
-            "text": "Agatha Christie’s Fiery Letters Offer New Glimpse Into the Queen of Crime",
-            "source": "Smithsonian"
-        }, 
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/how-texas-art-museum-prepared-hurricane-harvey-180964661/",
-            "img": "http://i.imgur.com/hiYPAq1.jpg",
-            "text": "This Texas Museum Was Devastated by Ike. Here's How It Prepared For Harvey",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "http://www.smithsonianmag.com/smart-news/chicago-library-seeks-help-transcribing-magical-manuscripts-180963911/",
-            "img": "http://i.imgur.com/sSpPogV.jpg",
-            "text": "Chicago Library Seeks Help Transcribing Magical Manuscripts",
-            "source": "Smithsonian"
-        },
-        {
-            "url": "https://www.smithsonianmag.com/smart-news/worlds-largest-database-jewish-art-preserves-risk-heritage-objects-180965103/",
-            "img": "https://i.imgur.com/yxQ0Hu9.jpg",
-            "text": "World’s Largest Online Database of Jewish Art Preserves At-Risk Heritage Objects",
-            "source": "Smithsonian"
-        },
+        },        
         {
           "url": "http://forward.com/news/national/353060/when-dating-cues-dont-come-naturallyhelping-special-needs-daters-learn-the/",
             "img": "https://s3.amazonaws.com/assets.forward.com/images/cropped/dating-orthodox-1477929329.jpg",
