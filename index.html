@@ -44,7 +44,7 @@
         text-align: center;
     }
     div.portfolio {
-        height: 200px;    
+        height: 200px;
     }
     </style>
 
@@ -78,6 +78,9 @@
                     </li>
                     <li class="page-scroll">
                         <a href="#about">About</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -132,14 +135,27 @@
                 <div class="col-lg-4">
                     <p>I write about arts and culture, history, science, and women's interest topics. I do not typically write about my pet lovebird <a href="https://www.instagram.com/squawkamole/" target="_none">Squawkamole</a>, but I am very fond of him nonetheless.</p>
                 </div>
-       <!--          <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"><</i> Download CV
-                    </a>
-                </div> -->
             </div>
         </div>
     </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Contact</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+              <div class="text-center">
+                <p><h3><a href="mailto:me@brigitkatz.com" target=_none>me@brigitkatz.com</a></h3></p>
+              </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <footer class="text-center">
         <div class="footer-above">
@@ -153,7 +169,7 @@
                             </li>
                             <li>
                                 <a href="https://www.linkedin.com/in/brigit-katz-b2525339" target="_none" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                            </li>                            
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -163,7 +179,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Brigit Katz 2016
+                        Copyright &copy; Brigit Katz 2018
                     </div>
                 </div>
             </div>
@@ -175,7 +191,7 @@
         <a class="btn btn-primary" href="#page-top">
             <i class="fa fa-chevron-up"></i>
         </a>
-    </div>   
+    </div>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
@@ -196,7 +212,7 @@
         $.getJSON('p.json', function(data) {
             var items = [];
             var d = data["items"];
-            var index = 0;      
+            var index = 0;
             $.each(d, function(i,item) {
                 var text = item["text"];
                 var img = item["img"];
@@ -206,13 +222,7 @@
                 var link = "<a target = '_none' href = '" + url + "'>" + source + "</a>"
                 var title = "<h1><a target='_none' href='"+url+"'>"+text+"</a></h1>"
                 items.push( "<div class='col-sm-4 portfolio-item'>" + imageElement + title + link + "</div>");
-
-                // if ((index + 1) % 3 == 0) {
-                //     items.push("")
-                //    
-                // }
-                 
-            });            
+            });
             $("#portfolio-fillin").append(items.join(""));
         });
     });
@@ -228,7 +238,7 @@
   ga('send', 'pageview');
 
 </script>
-      
+
 </body>
 
 </html>
