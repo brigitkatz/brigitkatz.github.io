@@ -1,6 +1,12 @@
 {
-    "items": [
-        {
+    "items": [       
+       {
+            "url": "https://www.smithsonianmag.com/smart-news/landmark-exhibition-inside-diverse-world-fatimid-dynasty-180968522/",
+            "img": "https://i.imgur.com/UKsUz6N.png",
+            "text": "Landmark Exhibition Takes You Inside the Exuberant, Diverse World of the Fatimid Dynasty",
+            "source": "Smithsonian"
+       },
+       {
             "url": "https://www.smithsonianmag.com/smart-news/naomi-parker-fraley-real-rosie-riveter-has-died-96-180967935/",
             "img": "https://i.imgur.com/KVm6q3z.png",
             "text": "The Unsung Inspiration Behind the “Real” Rosie the Riveter",
