@@ -1,6 +1,12 @@
 {
     "items": [       
-       {
+      {
+            "url": "https://www.globalcitizen.org/en/content/tania-akter-midwife-bangladesh-frontlines/",
+            "img": "https://i.imgur.com/F42iF1Z.png",
+            "text": "This Is What It's Like to Be a Midwife in a Rohingya Refugee Camp",
+            "source": "Global Citizen"
+      }, 
+      {
             "url": "https://www.smithsonianmag.com/smart-news/landmark-exhibition-inside-diverse-world-fatimid-dynasty-180968522/",
             "img": "https://i.imgur.com/UKsUz6N.png",
             "text": "Landmark Exhibition Takes You Inside the Exuberant, Diverse World of the Fatimid Dynasty",
