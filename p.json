@@ -1,5 +1,11 @@
 {
-    "items": [       
+    "items": [             
+      {
+            "url": "https://www.smithsonianmag.com/smart-news/giant-intact-egg-extinct-elephant-bird-found-buffalo-museum-180968850/",
+            "img": "https://i.imgur.com/2WHAuMC.jpg",
+            "text": "Giant, Intact Egg of the Extinct Elephant Bird Found in Buffalo Museum",
+            "source": "Smithsonian"
+      },
       {
             "url": "https://www.globalcitizen.org/en/content/tania-akter-midwife-bangladesh-frontlines/",
             "img": "https://i.imgur.com/F42iF1Z.png",
