@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "url": "https://www.mentalfloss.com/posts/why-swear-words-sound-offensive",
-      "img": "https://i.imgur.com/Menx3qz.png",
-      "text": "What Makes Swear Words So $#%+@&! Offensive? Scientists Have Found a Clue",
-      "source": "Mental Floss"
-    },
-    {
       "url": "https://www.mentalfloss.com/posts/agnes-sampson-king-james-witch-trials",
       "img": "https://i.imgur.com/BC6L0je.png",
       "text": "Agnes Sampson, the 'Witch' Who Confessed to Plotting Against King James VI",
@@ -23,6 +17,12 @@
       "img": "https://i.imgur.com/QKHnCFE.gif",
       "text": "These 18th-Century Shoes Underscore the Contradictions of the Age of Enlightenment",
       "source": "Smithsonian"
+    },
+    {
+      "url": "https://www.mentalfloss.com/posts/why-swear-words-sound-offensive",
+      "img": "https://i.imgur.com/Menx3qz.png",
+      "text": "What Makes Swear Words So $#%+@&! Offensive? Scientists Have Found a Clue",
+      "source": "Mental Floss"
     },
     {
       "url": "https://www.mentalfloss.com/posts/irish-crown-jewels-theft-gay-scandalhttps://www.mentalfloss.com/posts/irish-crown-jewels-theft-gay-scandal",
