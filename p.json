@@ -2,13 +2,13 @@
   "items": [
     {
       "url": "https://www.mentalfloss.com/posts/agnes-sampson-king-james-witch-trials",
-      "img": "https://i.imgur.com/BC6L0je.png",
+      "img": "/img/art/agnes_sampson.jpeg",
       "text": "Agnes Sampson, the 'Witch' Who Confessed to Plotting Against King James VI",
       "source": "Mental Floss"
     },
     {
       "url": "https://www.smithsonianmag.com/history/when-the-muppets-moved-to-moscow-180980927/",
-      "img": "https://i.imgur.com/mjw103B.png",
+      "img": "/img/art/muppets_moscow.webp",
       "text": "When the Muppets Moved to Moscow",
       "source": "Smithsonian"
     },
