@@ -218,7 +218,7 @@
                 var img = item["img"];
                 var url = item["url"];
                 var source = item["source"];
-                var imageElement = "<div class='portfolio'><a target='_none' href = '"+url+"'><img class='img-rounded' alt='" + text + "' src='"+img + "'></a></div>";
+                var imageElement = "<div class='portfolio'><a target='_none' href = '" + url + "'><img class='img-rounded' alt='" + text + "' src='/img/art/" + img + "'></a></div>";
                 var link = "<a target = '_none' href = '" + url + "'>" + source + "</a>"
                 var title = "<h1><a target='_none' href='"+url+"'>"+text+"</a></h1>"
                 items.push( "<div class='col-sm-4 portfolio-item'>" + imageElement + title + link + "</div>");
