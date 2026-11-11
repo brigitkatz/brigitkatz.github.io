@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    color: #5d4954;
 }
 
 p {
@@ -22,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #754f5b;
 }
 
 h1,
@@ -63,15 +64,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #754f5b;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #5d4954;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #5d4954;
     background-color: #fff;
 }
 
@@ -82,7 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #754f5b;
 }
 
 header .container {
@@ -181,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #754f5b;
 }
 
 section.success a,
@@ -190,7 +191,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #2c3e50;
+    color: #f9e0d9;
 }
 
 @media(max-width:767px) {
@@ -220,7 +221,7 @@ section.success a.active {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(117,79,91,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -274,7 +275,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #754f5b;
     background: #fff;
 }
 
@@ -282,7 +283,7 @@ section.success a.active {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #e6dbd0;
 }
 
 .floating-label-form-group input,
@@ -301,6 +302,7 @@ section.success a.active {
 
 .floating-label-form-group label {
     display: block;
+    color: #7d6167;
     z-index: 0;
     position: relative;
     top: 2em;
@@ -318,7 +320,7 @@ section.success a.active {
 
 .floating-label-form-group::not(:first-child) {
     padding-left: 14px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid #e6dbd0;
 }
 
 .floating-label-form-group-with-value label {
@@ -327,11 +329,11 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #754f5b;
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #e6dbd0;
 }
 
 footer {
@@ -344,7 +346,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #754f5b;
 }
 
 footer .footer-col {
@@ -353,7 +355,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #5d4954;
 }
 
 .btn-social {
@@ -437,7 +439,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: #5d4954;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -447,7 +449,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: #5d4954;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -456,4 +458,69 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+/* ---- Colour overrides for elements styled in bootstrap.min.css ---- */
+.navbar-default {
+    background-color: #5d4954;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #f9e0d9;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #754f5b;
+}
+
+.navbar-default .navbar-toggle {
+    color: #fff;
+    background-color: #754f5b;
+    border-color: #754f5b;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #7d6167;
+    border-color: #7d6167;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #754f5b;
+    border-color: #754f5b;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+    color: #fff;
+    background-color: #5d4954;
+    border-color: #5d4954;
+}
+
+.btn-default {
+    color: #5d4954;
+    background-color: #fff;
+    border-color: #5d4954;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active {
+    color: #fff;
+    background-color: #5d4954;
+    border-color: #5d4954;
 }
